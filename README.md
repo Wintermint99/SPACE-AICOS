@@ -6,7 +6,7 @@ SPACE AICOS 是算力互联网在人工智能、大模型等应用场景下实�
 
 ### 架构设计
 
-![SPACE AICOS开源项目架构图](./docs/space-aicos arch.png)
+![SPACE AICOS开源项目架构图](docs/space-aicos arch.png)
 
 SPACE AICOS 3.0 采用分层解耦的架构设计，分为AI应用编排层、算力调度层、资源管理层和底层资源四大核心层级：
 
