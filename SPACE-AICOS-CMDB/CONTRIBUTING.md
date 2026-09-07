@@ -1,4 +1,4 @@
-# Contributing to bk-cmdb
+# Contributing to SPACE-AICOS-cmdb
  我们欢迎[report Issues](https://github.com/TencentBlueKing/bk-cmdb/issues) 或者 [pull requests](https://github.com/TencentBlueKing/bk-cmdb/pulls)。 在贡献代码之前请阅读以下指引。
 
 ## 问题管理
