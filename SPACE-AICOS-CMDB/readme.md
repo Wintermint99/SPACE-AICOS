@@ -68,7 +68,7 @@ SPACE AICOS 联合中国信通院从 AI 云操作系统总体架构、架构各�
 
 ## 贡献指南
 欢迎所有开发者参与SPACE AICOS开源社区建设，提交功能特性、修复问题、完善文档。
-详细贡献规范请查看 [CONTRIBUTING.md](docs/CONTRIBUTING.md)
+详细贡献规范请查看 [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ### Git Commit 规范
 |标记|说明|
