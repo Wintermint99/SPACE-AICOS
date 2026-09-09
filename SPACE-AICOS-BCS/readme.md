@@ -23,11 +23,11 @@ SPACE-AICOS-BCS 定位于打造底层资源和业务实际应用场景之间的�
 
 ### 高级特性
 - [多卡适配]()
-- [Pod原地升级InplaceUpdate](./docs/features/bcs-gamestatefulset-operator/inPlaceUpdate.md)
-- [容器镜像热更新HotPatchUpdate](./docs/features/bcs-gamestatefulset-operator/hotPatchUpdate.md)
-- [基于Hook的应用交互式发布](./docs/features/bcs-hoo-operator/README.md)
-- [自动化分步骤灰度发布](./docs/features/bcs-gamedeployment-operator/features/canary/auto-canary-update.md)
-- [PreDeleteHook & PreInplaceHook优雅地删除和更新Pod](./docs/features/bcs-gamedeployment-operator/features/preDeleteHook/pre-delete-hook.md)
+- [Pod原地升级InplaceUpdate](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/features/bcs-gamestatefulset-operator/inPlaceUpdate.md)
+- [容器镜像热更新HotPatchUpdate](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/features/bcs-gamestatefulset-operator/hotPatchUpdate.md)
+- [基于Hook的应用交互式发布](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/features/bcs-hoo-operator/README.md)
+- [自动化分步骤灰度发布](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/features/bcs-gamedeployment-operator/features/canary/auto-canary-update.md)
+- [PreDeleteHook & PreInplaceHook优雅地删除和更新Pod](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/features/bcs-gamedeployment-operator/features/preDeleteHook/pre-delete-hook.md)
 - [镜像预热]()
 - [容器web-console](https://bk.tencent.com/docs/document/6.0/144/6541)
 
@@ -42,9 +42,9 @@ SPACE-AICOS-BCS 定位于打造底层资源和业务实际应用场景之间的�
 * [如何在SPACE-AICOS-BCS上插件容器监控信息](https://bk.tencent.com/docs/document/6.0/144/6515)
 
 ### 快速开始
-* [下载与编译](docs/install/source_compile.md)
-* [安装部署](docs/install/deploy-guide.md)
-* [API使用说明](./docs/apidoc/api.md)
+* [下载与编译](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/install/source_compile.md)
+* [安装部署](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/install/deploy-guide.md)
+* [API使用说明](https://github.com/stateioc/aicos-hcm/tree/space-aicos/docs/apidoc/api.md)
 
 ## AICOS社区
 中国信通院牵头搭建SPACE AICOS开源社区,旨在汇聚行业各方力量,发挥协同优势与成员单位创新能力，通过关键技术攻关、行业标准制定、生态体系建设等工作，推动AI云操作系统技术创新与产业升级，助力各行业在人工智能驱动下实现数字化转型与高质量发展。
